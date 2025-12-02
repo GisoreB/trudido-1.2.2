@@ -1,0 +1,5 @@
+analyzer:
+  exclude:
+    - submodules/**
+  errors:
+    deprecated_member_use: ignore
