@@ -1,5 +1,5 @@
-<h1 align="center">Trudido — Private and Minimalist Material You To-Do App</h1>
-<p align="center">
+<h1 align="left">Trudido — Private and Minimalist Material You To-Do App</h1>
+<p align="left">
   A lightweight, privacy-first to-do app built with Flutter and Material You.
 </p>
 
